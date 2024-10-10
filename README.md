@@ -1,6 +1,6 @@
 # solanalottery
 # Solana Lottery program 
-This is a decentralized lottery program built on the Solana blockchain using the Anchor framework. The lottery allows participants to buy tickets, and a random winner (or multiple winners) is selected to receive the prize pool. The application includes support for features such as discounted bulk ticket purchases, multiple winners, and automatic lottery resets.
+This is a decentralized lottery program built on the Solana blockchain using the Anchor framework. The lottery allows participants to buy tickets, and a random winner (or multiple winners) is selected to receive the prize pool. The program includes support for features such as discounted bulk ticket purchases, multiple winners, and automatic lottery resets.
 
 ## Features
 
